@@ -1,0 +1,8 @@
+<resources>
+    <!-- Base application theme: no action bar so our own banner/title bar shows cleanly. -->
+    <style name="Theme.CampusLife" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/green</item>
+        <item name="colorPrimaryDark">@color/green</item>
+        <item name="colorAccent">@color/light_green</item>
+    </style>
+</resources>
