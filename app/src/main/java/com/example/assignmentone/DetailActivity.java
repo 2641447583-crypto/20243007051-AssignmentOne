@@ -24,6 +24,10 @@ public class DetailActivity extends AppCompatActivity {
     /** Short header labels shown in the green title bar, ordered to match arrays.xml. */
     private static final String[] HEADER_TITLES = {"Facilities", "Events", "Clubs", "Support"};
 
+    /**
+     * Called when the activity is first created.
+     * Reads the selection index from the Intent and binds the matching data to the views.
+     */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
