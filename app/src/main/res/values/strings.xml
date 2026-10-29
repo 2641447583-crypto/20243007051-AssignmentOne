@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CampusLife</string>
+
+    <!-- Banner welcome text -->
+    <string name="welcome_text">Welcome to\nCampusLife - Your\nPocket Guide to\nUniversity of Waikato</string>
+
+    <!-- Button labels -->
+    <string name="btn_facilities">Facilities</string>
+    <string name="btn_events">Events</string>
+    <string name="btn_clubs">Clubs</string>
+    <string name="btn_support">Support</string>
+
+    <!-- Detail screen placeholders -->
+    <string name="detail_title_placeholder">This is a title</string>
+    <string name="detail_content_placeholder">This is content</string>
+
+    <!-- Intent extra key used to pass which button was clicked -->
+    <string name="extra_selection">selection_id</string>
+</resources>
